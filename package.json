@@ -1,0 +1,11 @@
+{
+  "name": "lead-webhook-router",
+  "version": "1.0.0",
+  "description": "Zero-dependency serverless contact and lead router with strict validation, HMAC signature check, and sliding-window rate limiting.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "author": "Luis Carmona",
+  "license": "MIT"
+}
